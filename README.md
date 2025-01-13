@@ -1,13 +1,5 @@
-<table align="center">
-  <tr>
-    <!-- Name and Title -->
-    <td>
-      <h1 align="left">Hi 👋, I'm Rahman Karimov</h1>
-      <h3 align="left">A passionate Backend Developer from Azerbaijan</h3>
-    </td>
-  </tr>
-</table>
-<ul>
+<h1 align="center">Hi 👋, I'm Rahman Karimov</h1>
+<h3 align="center">A passionate Backend Developer from Azerbaijan</h3>
   <li>
     🌱 I’m currently learning <strong>Spring Boot and Data Structures and Algorithms</strong>
     <ul>
