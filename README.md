@@ -1,9 +1,5 @@
 <table align="center">
   <tr>
-    <!-- Profile Photo -->
-    <td>
-<img src="https://i.imgur.com/znlgoym.jpg" alt="Rahman Karimov's Photo" width="200" height="200" style="border-radius: 50%;" />
-    </td>
     <!-- Name and Title -->
     <td>
       <h1 align="left">Hi 👋, I'm Rahman Karimov</h1>
