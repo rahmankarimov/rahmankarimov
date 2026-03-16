@@ -46,9 +46,3 @@ You can explore my work here:
   </a>
 </p>
 
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmankarimov&show_icons=true" alt="Rahman Karimov GitHub stats" />
-</p>
