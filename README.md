@@ -50,5 +50,5 @@ You can explore my work here:
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kar1mzadeh&show_icons=true" alt="Rahman Karimov GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmankarimov&show_icons=true" alt="Rahman Karimov GitHub stats" />
 </p>
