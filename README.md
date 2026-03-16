@@ -17,7 +17,7 @@
 
 ### Projects
 You can find my work here:  
-<a href="https://github.com/kar1mzadeh" target="_blank">GitHub Portfolio</a>
+<a href="https://github.com/rahmankarimov" target="_blank">GitHub Portfolio</a>
 
 ---
 
